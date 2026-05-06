@@ -15,7 +15,7 @@
 
 ### About me
 
-Full-stack engineer with 6+ years building and scaling production systems. Most recently architected and scaled a Shopify-based e-commerce platform to **$5.3M+ in annual revenue** — handling everything from React frontend performance to backend automation across 1,000+ SKUs.
+Full-stack engineer with 6+ years building and scaling production systems. Most recently architected and scaled a Shopify-based e-commerce platform to **$5.3M+ in annual revenue** — handling everything from React frontend performance to backend automation across 5,000+ SKUs.
 
 Previously supported **4,000+ students** as a Senior Learning Assistant at edX/2U, with a **4.9/5 satisfaction rating** across full-stack web development curriculum.
 
